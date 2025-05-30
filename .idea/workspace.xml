@@ -4,47 +4,278 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba61870-eff9-4cc8-b285-bfdb4b34acdc" name="Changes" comment="code: is_unique: Implement an Algorithm to determine if a string has all unique characters." />
+    <list default="true" id="7ba61870-eff9-4cc8-b285-bfdb4b34acdc" name="Changes" comment="code: two sum coding problem from leetcode: https://leetcode.com/problems/two-sum/description/">
+      <change afterPath="$PROJECT_DIR$/Arrays_and_Strings/reverse_english_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays_and_Strings/reverse_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/kth_node_from_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/linked_list_cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/maximum_twin_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/mid_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/mid_node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/remove_dups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/reverse_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/reverse_linked_list_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedLists/swap_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arr_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bfs/deepest_root_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bfs/largest_val_tree_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bfs/right_side_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bfs/zigzag_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bst/closet_val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bst/insert_in_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bst/min_abs_diff_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bst/range_sum_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/bst/validate_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/count_good_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/diameter_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/lowest_common_ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/max_depth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/max_diff_between_node_ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/minimum_depth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/path_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/dfs/same_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_trees/tree_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs/01_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs/all_nodes_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs/nearest_exit_from_maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs/shortest_path_binary_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs/shortest_path_with_alternating_colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs/shortest_path_with_obstacles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs/snake_and_ladder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/is_path_exists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/keys_and_rooms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/max_area_of_island.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/min_vertices_to_reach_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/num_connected_components.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/num_islands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/num_provinces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/reachable_nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dfs/reorder_routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/implicit_graphs/open_the_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/check_existence/sine_cosine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/check_existence/two_sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/contigous_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/counting_elements/count_dups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/equal_row_col_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/find_players_with_zero_or_one_losses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/group_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/jewels_stones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/largest_unique_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/longest_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/longest_substring_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/max_balloons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/max_sum_pair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/minimum_consecutive_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/missing_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmaps/ransom_note.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monotonic/daily_temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monotonic/longest_continous_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monotonic/next_greater_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monotonic/sliding_window_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monotonic/stock_span.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queues/moving_avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queues/num_recent_calls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roman_to_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/answer_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/k_radius_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/longestOnes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/longest_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/max_avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/min_common_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/min_start_val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window/ways_to_split_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stacks/backspace_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stacks/make_string_great.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stacks/remove_adj_dups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stacks/simplify_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stacks/valid_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualize_euler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualize_euler_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DebugImageViewer" lastLocation="511,229" lastSize="808,821" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vinayak-sharan&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="25e17bb7-3fac-4af0-adab-613f6de30018" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vinayak015/cracking_the_coding_interview.git&quot;,
+    &quot;accountId&quot;: &quot;1399379d-b97f-44a5-8293-309bc190aeb5&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2024.2/python_stubs/-1046859420/scipy/spatial/transform/_rotation.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/anaconda3_arm/envs/Resources_new/lib/python3.11/site-packages/pandas/io/parsers/readers.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2emePnPX3lLXnk8wZF1X2x3K8tF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/vinayak/PycharmProjects/cracking_the_coding_interview/Arrays_and_Strings",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for two_sum.TestSolution.test_better_twoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for two_sum.TestSolution.test_twoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in two_sum.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_matrix.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.all_nodes_distance.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.answer_queries.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.arr_reverse.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.avg.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.backspace_string.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.closet_val.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.cnn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contigous_array.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.count_dups.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.count_good_nodes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.daily_temp.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.diameter_of_binary_tree.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.equal_row_col_pairs.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.find_players_with_zero_or_one_losses.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.flow_exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flow_exp_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.group_anagrams.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.insert_in_bst.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.is_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_path_exists.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.k_radius_subarray.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.keys_and_rooms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.largest_unique_num.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.longest_continous_subarray.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.longest_substring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longest_substring_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.make_string_great.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_area_of_island.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.max_avg.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.max_balloons.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.max_depth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_diff_between_node_ancestor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_ones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_sum_pair.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.maximum_twin_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_abs_diff_bst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_common_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_start_val.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.min_vertices_to_reach_nodes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.minimum_consecutive_cards.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.minimum_depth.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.nearest_exit_from_maze.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.next_greater_element.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.nltk_sentence_tokens.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.num_connected_components.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.num_islands.executor&quot;: &quot;Run&quot;,
+    &quot;Python.num_provinces.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.open_the_lock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.path_sum.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.plot_dist.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.plot_euler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.randoms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range_sum_bst.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ransom_note.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.reachable_nodes.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.remove_adj_dups.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.reorder_routes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_english_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_linked_list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.reverse_linked_list_in_range.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.reverse_words.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sent_token_de.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.shortest_path_binary_matrix.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.shortest_path_with_alternating_colors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simplify_path.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sine_cosine.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sliding_window_max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_and_ladder.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.spacy_lang_detector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spacy_tokenizer.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.stock_span.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.swap_pairs.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two_sums.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.valid_parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validate_bst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualize_attention.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.visualize_euler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualize_euler_copy.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ways_to_split_array.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vinayak/PycharmProjects/cracking_the_coding_interview&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Arrays_and_Strings" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/graphs/dfs" />
+      <recent name="$PROJECT_DIR$/binary_trees" />
+      <recent name="$PROJECT_DIR$/binary_trees/dfs" />
+      <recent name="$PROJECT_DIR$/monotonic" />
+      <recent name="$PROJECT_DIR$/queues" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.open_the_lock">
+    <configuration name="01_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cracking_the_coding_interview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs/bfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/bfs/01_matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="cracking_the_coding_interview" />
       <option name="ENV_FILES" value="" />
@@ -68,16 +299,120 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nearest_exit_from_maze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cracking_the_coding_interview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs/bfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/bfs/nearest_exit_from_maze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="open_the_lock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cracking_the_coding_interview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs/implicit_graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/implicit_graphs/open_the_lock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shortest_path_with_alternating_colors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cracking_the_coding_interview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs/bfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/bfs/shortest_path_with_alternating_colors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake_and_ladder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cracking_the_coding_interview" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs/bfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/bfs/snake_and_ladder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.open_the_lock" />
+        <item itemvalue="Python.snake_and_ladder" />
+        <item itemvalue="Python.nearest_exit_from_maze" />
+        <item itemvalue="Python.shortest_path_with_alternating_colors" />
+        <item itemvalue="Python.01_matrix" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SwiftWorkspaceSettings">
+    <option name="detectedToolchain" value="true" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7ba61870-eff9-4cc8-b285-bfdb4b34acdc" name="Changes" comment="" />
@@ -89,6 +424,60 @@
       <workItem from="1712514682701" duration="86000" />
       <workItem from="1712514772019" duration="656000" />
       <workItem from="1712515431266" duration="90000" />
+      <workItem from="1712515524160" duration="2774000" />
+      <workItem from="1725110771540" duration="6986000" />
+      <workItem from="1725517709828" duration="2896000" />
+      <workItem from="1725692818979" duration="1227000" />
+      <workItem from="1725711405101" duration="700000" />
+      <workItem from="1726932118930" duration="17647000" />
+      <workItem from="1727193516582" duration="5444000" />
+      <workItem from="1729439336369" duration="2416000" />
+      <workItem from="1730234853394" duration="40000" />
+      <workItem from="1733901678943" duration="1468000" />
+      <workItem from="1738559215405" duration="1388000" />
+      <workItem from="1738585647615" duration="5406000" />
+      <workItem from="1738601800192" duration="2690000" />
+      <workItem from="1738644408888" duration="2560000" />
+      <workItem from="1738648226825" duration="4872000" />
+      <workItem from="1738666532943" duration="1391000" />
+      <workItem from="1738669737405" duration="3000" />
+      <workItem from="1738681727904" duration="5239000" />
+      <workItem from="1738827039639" duration="1567000" />
+      <workItem from="1742943070813" duration="1375000" />
+      <workItem from="1744111568082" duration="222000" />
+      <workItem from="1744111799140" duration="79000" />
+      <workItem from="1744112595990" duration="71000" />
+      <workItem from="1744112672711" duration="50000" />
+      <workItem from="1744112727771" duration="8423000" />
+      <workItem from="1744572073744" duration="409000" />
+      <workItem from="1744576470345" duration="1991000" />
+      <workItem from="1744711230764" duration="5373000" />
+      <workItem from="1744793379155" duration="3000" />
+      <workItem from="1744881699865" duration="1434000" />
+      <workItem from="1745905667637" duration="21654000" />
+      <workItem from="1746284742763" duration="21078000" />
+      <workItem from="1746508314816" duration="1689000" />
+      <workItem from="1746511874107" duration="6506000" />
+      <workItem from="1746618857226" duration="15651000" />
+      <workItem from="1746712590196" duration="2637000" />
+      <workItem from="1746771834636" duration="1631000" />
+      <workItem from="1746775151716" duration="173000" />
+      <workItem from="1746776986079" duration="1880000" />
+      <workItem from="1746867844539" duration="15879000" />
+      <workItem from="1746970158224" duration="13564000" />
+      <workItem from="1747034866484" duration="3726000" />
+      <workItem from="1747063405694" duration="2774000" />
+      <workItem from="1747107014784" duration="24042000" />
+      <workItem from="1747218127659" duration="1455000" />
+      <workItem from="1747288474770" duration="3236000" />
+      <workItem from="1747802521909" duration="5562000" />
+      <workItem from="1747812636353" duration="4219000" />
+      <workItem from="1747976477536" duration="13161000" />
+      <workItem from="1748064741055" duration="11739000" />
+      <workItem from="1748103411713" duration="32145000" />
+      <workItem from="1748283552960" duration="9174000" />
+      <workItem from="1748411795826" duration="7062000" />
+      <workItem from="1748496824507" duration="9505000" />
     </task>
     <task id="LOCAL-00001" summary="code: is_unique: Implement an Algorithm to determine if a string has all unique characters.">
       <option name="closed" value="true" />
@@ -106,7 +495,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712514997701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="code: is_unique: Implement an Algorithm to determine if a string has all unique characters.">
+      <option name="closed" value="true" />
+      <created>1712515545950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712515545950</updated>
+    </task>
+    <task id="LOCAL-00004" summary="code: two sum coding problem from leetcode: https://leetcode.com/problems/two-sum/description/">
+      <option name="closed" value="true" />
+      <created>1725116708087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725116708087</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,9 +530,248 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code: is_unique: Implement an Algorithm to determine if a string has all unique characters." />
-    <option name="LAST_COMMIT_MESSAGE" value="code: is_unique: Implement an Algorithm to determine if a string has all unique characters." />
+    <MESSAGE value="code: two sum coding problem from leetcode: https://leetcode.com/problems/two-sum/description/" />
+    <option name="LAST_COMMIT_MESSAGE" value="code: two sum coding problem from leetcode: https://leetcode.com/problems/two-sum/description/" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/avg.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/avg.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/avg.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/avg.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/avg.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/is_palindrome.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/visualize_euler.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/visualize_euler_copy.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/visualize_euler_copy.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sliding_window/min_start_val.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sliding_window/min_start_val.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/images/cnn.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hashmaps/find_players_with_zero_or_one_losses.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hashmaps/longest_substring.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hashmaps/longest_substring.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LinkedLists/reverse_linked_list.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stacks/make_string_great.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stacks/make_string_great.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stacks/make_string_great.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stacks/make_string_great.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/monotonic/daily_temp.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/monotonic/daily_temp.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/monotonic/stock_span.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/monotonic/stock_span.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binary_trees/dfs/diameter_of_binary_tree.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binary_trees/bst/min_abs_diff_bst.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binary_trees/bst/insert_in_bst.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binary_trees/bst/insert_in_bst.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graphs/dfs/reachable_nodes.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="queue" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$plot_dist.coverage" NAME="plot_dist Coverage Results" MODIFIED="1744711582287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$nearest_exit_from_maze.coverage" NAME="nearest_exit_from_maze Coverage Results" MODIFIED="1748415478220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs/bfs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$max_balloons.coverage" NAME="max_balloons Coverage Results" MODIFIED="1745925970240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$min_common_value.coverage" NAME="min_common_value Coverage Results" MODIFIED="1738827987588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sliding_window" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$visualize_euler.coverage" NAME="visualize_euler Coverage Results" MODIFIED="1727245034045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$visualize_euler_copy.coverage" NAME="visualize_euler_copy Coverage Results" MODIFIED="1727245441502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$sine_cosine.coverage" NAME="sine_cosine Coverage Results" MODIFIED="1744142320479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps/check_existence" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$reachable_nodes.coverage" NAME="reachable_nodes Coverage Results" MODIFIED="1748236571036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$keys_and_rooms.coverage" NAME="keys_and_rooms Coverage Results" MODIFIED="1748103717902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$min_start_val.coverage" NAME="min_start_val Coverage Results" MODIFIED="1738648850366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sliding_window" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$make_string_great.coverage" NAME="make_string_great Coverage Results" MODIFIED="1747028330216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$k_radius_subarray.coverage" NAME="k_radius_subarray Coverage Results" MODIFIED="1738667295609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sliding_window" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$swap_pairs.coverage" NAME="swap_pairs Coverage Results" MODIFIED="1746685284736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedLists" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$sliding_window_max.coverage" NAME="sliding_window_max Coverage Results" MODIFIED="1747036295235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/queues" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$range_sum_bst.coverage" NAME="range_sum_bst Coverage Results" MODIFIED="1747977963310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees/bst" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$next_greater_element.coverage" NAME="next_greater_element Coverage Results" MODIFIED="1747111109054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monotonic" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$nltk_sentence_tokens.coverage" NAME="nltk_sentence_tokens Coverage Results" MODIFIED="1746623755210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$min_vertices_to_reach_nodes.coverage" NAME="min_vertices_to_reach_nodes Coverage Results" MODIFIED="1748104252944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$minimum_consecutive_cards.coverage" NAME="minimum_consecutive_cards Coverage Results" MODIFIED="1746343200771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$max_avg.coverage" NAME="max_avg Coverage Results" MODIFIED="1738586194190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sliding_window" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$avg.coverage" NAME="avg Coverage Results" MODIFIED="1725520453943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$group_anagrams.coverage" NAME="group_anagrams Coverage Results" MODIFIED="1746341493744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$shortest_path_binary_matrix.coverage" NAME="shortest_path_binary_matrix Coverage Results" MODIFIED="1748238362559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs/bfs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$max_area_of_island.coverage" NAME="max_area_of_island Coverage Results" MODIFIED="1748158897131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$stock_span.coverage" NAME="stock_span Coverage Results" MODIFIED="1747118267011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monotonic" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$sent_token_de.coverage" NAME="sent_token_de Coverage Results" MODIFIED="1746713073972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$ways_to_split_array.coverage" NAME="ways_to_split_array Coverage Results" MODIFIED="1738645863593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sliding_window" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$diameter_of_binary_tree.coverage" NAME="diameter_of_binary_tree Coverage Results" MODIFIED="1747806732080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$reverse_english_char.coverage" NAME="reverse_english_char Coverage Results" MODIFIED="1738685904119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays_and_Strings" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$count_dups.coverage" NAME="count_dups Coverage Results" MODIFIED="1744882337982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps/counting_elements" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$flow_exp.coverage" NAME="flow_exp Coverage Results" MODIFIED="1729439765202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$closet_val.coverage" NAME="closet_val Coverage Results" MODIFIED="1747989707127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees/bst" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$equal_row_col_pairs.coverage" NAME="equal_row_col_pairs Coverage Results" MODIFIED="1746352743595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$backspace_string.coverage" NAME="backspace_string Coverage Results" MODIFIED="1746954950654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$largest_unique_num.coverage" NAME="largest_unique_num Coverage Results" MODIFIED="1745917812981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$max_diff_between_node_ancestor.coverage" NAME="max_diff_between_node_ancestor Coverage Results" MODIFIED="1747804348266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$visualize_attention.coverage" NAME="visualize_attention Coverage Results" MODIFIED="1733901751004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cracking_the_coding_interview$main.coverage" NAME="main Coverage Results" MODIFIED="1712514296157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$num_connected_components.coverage" NAME="num_connected_components Coverage Results" MODIFIED="1748153227859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$arr_reverse.coverage" NAME="arr_reverse Coverage Results" MODIFIED="1738560098732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$longest_continous_subarray.coverage" NAME="longest_continous_subarray Coverage Results" MODIFIED="1747107830922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monotonic" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$min_abs_diff_bst.coverage" NAME="min_abs_diff_bst Coverage Results" MODIFIED="1747980112836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees/bst" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$reverse_words.coverage" NAME="reverse_words Coverage Results" MODIFIED="1738682451758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays_and_Strings" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$reverse_linked_list_in_range.coverage" NAME="reverse_linked_list_in_range Coverage Results" MODIFIED="1746950011438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedLists" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1725116324929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$maximum_twin_sum.coverage" NAME="maximum_twin_sum Coverage Results" MODIFIED="1746689275297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedLists" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$open_the_lock.coverage" NAME="open_the_lock Coverage Results" MODIFIED="1748506706446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs/implicit_graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$ransom_note.coverage" NAME="ransom_note Coverage Results" MODIFIED="1746353433323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$flow_exp_2.coverage" NAME="flow_exp_2 Coverage Results" MODIFIED="1729440713876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$01_matrix.coverage" NAME="01_matrix Coverage Results" MODIFIED="1748322029906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs/bfs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$remove_adj_dups.coverage" NAME="remove_adj_dups Coverage Results" MODIFIED="1746953639831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$simplify_path.coverage" NAME="simplify_path Coverage Results" MODIFIED="1747026773104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$spacy_tokenizer.coverage" NAME="spacy_tokenizer Coverage Results" MODIFIED="1746623917298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$max_sum_pair.coverage" NAME="max_sum_pair Coverage Results" MODIFIED="1746348810382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$is_path_exists.coverage" NAME="is_path_exists Coverage Results" MODIFIED="1748151722963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$.coverage" NAME=" Coverage Results" MODIFIED="1725116633499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$max_ones.coverage" NAME="max_ones Coverage Results" MODIFIED="1738588358600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sliding_window" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$minimum_depth.coverage" NAME="minimum_depth Coverage Results" MODIFIED="1747803734920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$two_sums.coverage" NAME="two_sums Coverage Results" MODIFIED="1744114146749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps/check_existence" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$daily_temp.coverage" NAME="daily_temp Coverage Results" MODIFIED="1747112608446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/queues" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$reverse_linked_list.coverage" NAME="reverse_linked_list Coverage Results" MODIFIED="1746778655209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedLists" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$valid_parenthesis.coverage" NAME="valid_parenthesis Coverage Results" MODIFIED="1746952753994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$find_players_with_zero_or_one_losses.coverage" NAME="find_players_with_zero_or_one_losses Coverage Results" MODIFIED="1745916247112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$is_palindrome.coverage" NAME="is_palindrome Coverage Results" MODIFIED="1725693480778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$num_provinces.coverage" NAME="num_provinces Coverage Results" MODIFIED="1748069387291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$plot_euler.coverage" NAME="plot_euler Coverage Results" MODIFIED="1726993058506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$validate_bst.coverage" NAME="validate_bst Coverage Results" MODIFIED="1747980934129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees/bst" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$insert_in_bst.coverage" NAME="insert_in_bst Coverage Results" MODIFIED="1747986195999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees/bst" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$max_depth.coverage" NAME="max_depth Coverage Results" MODIFIED="1747200856783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$longest_substring.coverage" NAME="longest_substring Coverage Results" MODIFIED="1746509222458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$answer_queries.coverage" NAME="answer_queries Coverage Results" MODIFIED="1738644836300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sliding_window" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$contigous_array.coverage" NAME="contigous_array Coverage Results" MODIFIED="1746337634517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$reorder_routes.coverage" NAME="reorder_routes Coverage Results" MODIFIED="1748076317518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$shortest_path_with_alternating_colors.coverage" NAME="shortest_path_with_alternating_colors Coverage Results" MODIFIED="1748413694160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs/bfs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$randoms.coverage" NAME="randoms Coverage Results" MODIFIED="1746715734012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$count_good_nodes.coverage" NAME="count_good_nodes Coverage Results" MODIFIED="1747205656403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1742943840166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$all_nodes_distance.coverage" NAME="all_nodes_distance Coverage Results" MODIFIED="1748248641263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs/bfs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$spacy_lang_detector.coverage" NAME="spacy_lang_detector Coverage Results" MODIFIED="1746712806347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$snake_and_ladder.coverage" NAME="snake_and_ladder Coverage Results" MODIFIED="1748504024423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs/bfs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$num_islands.coverage" NAME="num_islands Coverage Results" MODIFIED="1748071041688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$longest_substring_2.coverage" NAME="longest_substring_2 Coverage Results" MODIFIED="1746509992239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashmaps" />
+    <SUITE FILE_PATH="coverage/cracking_the_coding_interview$path_sum.coverage" NAME="path_sum Coverage Results" MODIFIED="1747202654616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_trees" />
   </component>
 </project>
