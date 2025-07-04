@@ -60,5 +60,12 @@ if __name__ == "__main__":
     # queries = [1]
     print(sol.answerQueries_pre_sum_binary_search(nums, queries))
 """
-Time Complexity: O(log(n))
+Time Complexity: 
+    m = len(queries)
+    n = len(nums)
+    sort: O(n.log(n))
+    presum: O(n)
+    binary_search: O(m.log(n))
+    
+    Overall: O(n.log(n) + m.log(n)) = O((n + m).log(n))
 """
