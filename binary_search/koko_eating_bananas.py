@@ -38,5 +38,8 @@ if __name__ == "__main__":
 
     print(sol.minEatingSpeed(piles, h))
 """
-Time Complexity: O(log(n))
+Time Complexity: 
+    n = len(piles)
+    m = max(piles)
+    O(n.log(m))
 """
