@@ -11,7 +11,6 @@ class Solution:
                 ans.append(res[:])
                 return
             for i in range(len(nums)):
-                print(i, k)
                 if not seen[i]:
                     res[k] = nums[i]
                     seen[i] = True
